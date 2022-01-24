@@ -10,5 +10,8 @@ Skills: JAVASCRIPT / JAVA / HTML / CSS / PHP / EXPRESS / NODE
 - 💬 Ask me about anything regarding programming! 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tbfCodies)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbfCodies)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfCodies&show_icons=false)  
