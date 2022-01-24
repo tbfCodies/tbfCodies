@@ -3,8 +3,11 @@
 
 My name is Marcus or more known as Codies, I am a software engineer student and always looking for new things to learn!
 
-## Skills 
-JAVASCRIPT / JAVA / HTML / CSS / PHP / EXPRESS / NODE
+## Skills & Experience
+- Javascript
+- Java
+- HTML / CSS
+- PHP
 
 - 🔭 I’m currently working on absolutely nothing! 
 - 🤔 I’m looking for help with plugins, websites and servers! 
