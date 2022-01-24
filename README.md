@@ -3,16 +3,17 @@
 
 My name is Marcus or more known as Codies, I am a software engineer student and always looking for new things to learn!
 
+- 💬 Currently open for commissions! 
+
 ## Skills & Experience
 - Javascript
 - Java
 - HTML / CSS
 - PHP
 
-- 🔭 I’m currently working on absolutely nothing! 
-- 🤔 I’m looking for help with plugins, websites and servers! 
-- 💬 Ask me about anything regarding programming! 
-
+## Contact me!
+- Discord: Codies#0001
+- Twitter: @tbhCodies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbfCodies)](https://github.com/anuraghazra/github-readme-stats)
 
