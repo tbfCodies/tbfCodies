@@ -15,6 +15,8 @@ My name is Marcus or more known as Codies, I am a software engineer student and 
 - Discord: Codies#0001
 - Twitter: @tbhCodies
 
+## Random but fun stuff!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbfCodies)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfCodies&show_icons=true)  
