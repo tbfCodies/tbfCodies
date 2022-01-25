@@ -10,6 +10,7 @@ My name is Marcus or more known as Codies, I am a software engineer student and 
 - Java
 - HTML / CSS / JS / PHP
 - C++ / C#
+- Python
 
 ## Contact me!
 - Discord: Codies#0001
