@@ -7,7 +7,7 @@ My name is Marcus or more known as Codies, I am a software engineer student and 
 - 💬 Currently open for commissions! 
 
 ## Skills & Experience
-- Java
+- Java (Mainly)
 - HTML / CSS / JS / PHP
 - C++ / C#
 - Python
