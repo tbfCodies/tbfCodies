@@ -14,7 +14,6 @@ My name is Marcus or more known as Codies, I am a software engineer student and 
 
 ## Contact me!
 - Discord: Codies#0001
-- Twitter: @tbhCodies
 
 ## Random but fun stuff!
 
