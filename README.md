@@ -2,9 +2,9 @@
 
 
 ## Howdy!
-My name is Marcus or more known as Codies, I am a software engineer student and always looking for new things to learn! <3
+My name is Marcus, I am a CS student and always looking for new things to learn! <3
 
-- 💬 Currently open for commissions! 
+- 💬 Currently **closed** for commissions! 
 
 ## Skills & Experience
 - Java
