@@ -11,6 +11,9 @@ My name is Marcus, I am a CS student and always looking for new things to learn!
 - Javascript, React/Angular/Express and NodeJS
 - Frontend web (HTML, CSS)
 
+## Public Work
+- N/A
+
 ## Contact me!
 - Discord: Codies#0001
 
