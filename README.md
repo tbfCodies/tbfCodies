@@ -2,7 +2,7 @@
 
 
 ## Howdy!
-My name is Marcus, I am a CS student and always looking for new things to learn! <3
+I'm Marcus, a CS student who's constantly eager to expand my knowledge! I am always on the lookout for new things to learn and explore. Feel free to ask me anything!
 
 - 💬 Currently **closed** for commissions! 
 
