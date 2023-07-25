@@ -12,7 +12,7 @@ I'm Marcus, a CS student who's constantly eager to expand my knowledge! I am alw
 - Frontend web (HTML, CSS)
 
 ## Public Work
-- N/A
+- coming soon
 
 ## Contact me!
 - Discord: Codies (Codies#0001)
