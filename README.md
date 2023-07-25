@@ -15,7 +15,7 @@ I'm Marcus, a CS student who's constantly eager to expand my knowledge! I am alw
 - N/A
 
 ## Contact me!
-- Discord: Codies#0001
+- Discord: Codies (Codies#0001)
 
 ## Random but fun stuff!
 
