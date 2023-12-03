@@ -2,20 +2,16 @@
 
 
 ## Howdy!
-I'm Marcus, a CS student who's constantly eager to expand my knowledge! I am always on the lookout for new things to learn and explore. Feel free to ask me anything!
+yahalloo I am Marcus or more known as Codies, I code random stuff here and there check it out!
 
 - 💬 Currently **closed** for commissions! 
 
-## Skills & Experience
-- Java
-- Javascript, React/Angular/Express and NodeJS
-- Frontend web (HTML, CSS)
-
-## Public Work
-- coming soon
+## Public
+- https://codies.cc
 
 ## Contact me!
 - Discord: Codies (Codies#0001)
+- httos://codies.cc/contact
 
 ## Random but fun stuff!
 
