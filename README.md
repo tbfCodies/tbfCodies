@@ -6,9 +6,6 @@ yahalloo I am Marcus or more known as Codies, I code random stuff here and there
 
 - 💬 Currently **closed** for commissions! 
 
-## Public
-- https://codies.cc
-
 ## Contact me!
 - Discord: Codies (Codies#0001)
 - https://codies.cc/contact
