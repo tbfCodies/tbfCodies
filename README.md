@@ -11,7 +11,7 @@ yahalloo I am Marcus or more known as Codies, I code random stuff here and there
 
 ## Contact me!
 - Discord: Codies (Codies#0001)
-- httos://codies.cc/contact
+- https://codies.cc/contact
 
 ## Random but fun stuff!
 
