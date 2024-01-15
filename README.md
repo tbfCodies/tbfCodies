@@ -2,9 +2,7 @@
 
 
 ## Howdy!
-yahalloo I am Marcus or more known as Codies, I code random stuff here and there check it out!
-
-- 💬 Currently **closed** for commissions! 
+yahalloo Marcus here! I code random stuff here and there check it out!
 
 ## Contact me!
 - Discord: Codies (Codies#0001)
