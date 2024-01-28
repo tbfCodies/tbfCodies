@@ -14,6 +14,7 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 - Typescript
 - NodeJS, react and express
 - Lua / C#
+- Python
 - Management of relations databases
 
 
