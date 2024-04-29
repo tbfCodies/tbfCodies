@@ -5,6 +5,9 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 - Discord: Codies (Codies#0001)
 - https://codies.cc/contact
 
+## Projects
+- https://myso.me (upcoming)
+
 ## Skills
 - Java
 - Javascript
