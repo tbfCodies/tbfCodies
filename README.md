@@ -18,5 +18,3 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 ## Random but fun stuff!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbfCodies)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfCodies&show_icons=true)  
