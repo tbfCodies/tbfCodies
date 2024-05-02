@@ -6,7 +6,13 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 - https://codies.cc/contact
 
 ## Projects
-- https://myso.me (upcoming)
+
+# Current
+- https://thegoldyiron.se
+
+# Upcoming
+- https://myso.me
+- Unnamed Indie Game
 
 ## Skills
 - Java
