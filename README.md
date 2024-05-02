@@ -7,10 +7,10 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 ## Projects
 
-### Current
+#### current
 - https://thegoldyiron.se
 
-### Upcoming
+#### upcoming
 - https://myso.me
 - Unnamed Indie Game
 
