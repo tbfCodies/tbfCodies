@@ -22,10 +22,17 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 - Java (primary, I know what a shocker)
 - Javascript
 - Typescript
-- NodeJS, react and express
+- HTML/CSS
+- React
+- Express
+- AngularJS
 - Lua / C#
 - Python
+- Docker
+- RESTful APIs
 - Management of relations databases
+- MonogDB
+- Agile Methodologies
 
 ## Random but fun stuff!
 
