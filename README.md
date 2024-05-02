@@ -12,7 +12,7 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 #### upcoming
 - https://myso.me
-- Unnamed Indie Game
+- Unnamed Indie Game (steam)
 
 ## Skills
 - Java
