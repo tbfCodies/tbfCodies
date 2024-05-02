@@ -1,8 +1,11 @@
 ## Howdy!
 yahalloo Marcus here! I code random stuff here and there check it out!
 
+## Portfolio
+- https://codies.cc
+
 ## Contact me!
-- Discord: Codies (Codies#0001)
+- Discord: Codies
 - https://codies.cc/contact
 
 ## Projects
