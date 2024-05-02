@@ -3,7 +3,6 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 ## Portfolio
 - https://codies.cc
-- Miro (Discord Bot)
 
 ## Contact me!
 - Discord: Codies
@@ -13,7 +12,8 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 #### current
 - https://thegoldyiron.se
-
+- Miro (Discord Bot)
+  
 #### upcoming
 - https://myso.me
 - Indie game (steam)
