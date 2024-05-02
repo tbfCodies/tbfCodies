@@ -18,7 +18,7 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 - Indie game (steam)
 
 ## Skills
-- Java
+- Java (primary, I know what a shocker)
 - Javascript
 - Typescript
 - NodeJS, react and express
