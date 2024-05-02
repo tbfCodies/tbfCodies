@@ -12,7 +12,6 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 #### current
 - https://thegoldyiron.se
-- Miro
 
 #### upcoming
 - https://myso.me
@@ -29,6 +28,7 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 ## Previous
 - Hypixel
+- Miro
 - Minesharp
 - LoPixel
 - CloudPvP
