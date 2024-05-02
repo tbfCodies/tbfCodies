@@ -3,6 +3,7 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 ## Portfolio
 - https://codies.cc
+- Miro (Discord Bot)
 
 ## Contact me!
 - Discord: Codies
@@ -25,19 +26,6 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 - Lua / C#
 - Python
 - Management of relations databases
-
-## Previous
-- Hypixel
-- Miro
-- Minesharp
-- LoPixel
-- CloudPvP
-- Astro Network
-- Event Central
-- SparkedHost
-- JurassicPvP
-- RatMC
-- Lots of private commissions
 
 ## Random but fun stuff!
 
