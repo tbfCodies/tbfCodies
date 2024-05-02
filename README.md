@@ -12,6 +12,7 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 
 #### current
 - https://thegoldyiron.se
+- Miro
 
 #### upcoming
 - https://myso.me
@@ -26,6 +27,15 @@ yahalloo Marcus here! I code random stuff here and there check it out!
 - Python
 - Management of relations databases
 
+## Previous
+- Hypixel
+- Minesharp
+- LoPixel
+- CloudPvP
+- Astro Network
+- Event Central
+- SparkedHost
+- Hive
 
 ## Random but fun stuff!
 
