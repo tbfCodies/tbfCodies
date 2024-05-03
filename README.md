@@ -1,4 +1,4 @@
-![Alt text](https://ibb.co/Rz1MjQc)
+![Alt text](https://ibb.co/Rz1MjQc.png)
 
 ## Howdy!
 yahalloo Marcus here! I code random stuff here and there check it out!
