@@ -1,4 +1,4 @@
-![Alt text](https://ibb.co/Rz1MjQc.png)
+![Alt text]([https://ibb.co/Rz1MjQc.png](https://i.ibb.co/hDknY2V/Frame-4.png))
 
 ## Howdy!
 yahalloo Marcus here! I code random stuff here and there check it out!
