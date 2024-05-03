@@ -1,4 +1,4 @@
-![Alt text](https://i.ibb.co/Rz1MjQc/Frame-4.png)
+<img src="https://i.ibb.co/Rz1MjQc/Frame-4.png" alt="Alt text" width="600"/>
 
 ## Howdy!
 yahalloo Marcus here! I code random stuff here and there check it out!
